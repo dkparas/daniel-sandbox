@@ -31,4 +31,4 @@ const fvlrx = document.getElementById('mlacrz');
 fvlrx.innerHTML = '<h2>💐🌸🌼🌹Veronica likes flowers.</h2>';
 //mememememememe//
 const manchester = document.getElementById('contre');
-manchester.innerHTML = '<h3>rgh</h3>';
+manchester.innerHTML = '<h3>Łodz Gdńask </h3>';
